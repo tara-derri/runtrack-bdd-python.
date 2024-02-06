@@ -1,5 +1,4 @@
-#modifier la valeur de l’âge de Betty de 23 ans a 20 ans.
-
+#supprimer John Doe de la base de données.
 
 mysql> DELETE FROM etudiant WHERE nom = 'Doe' AND prenom = 'John';
 
